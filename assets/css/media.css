@@ -1,0 +1,8 @@
+@media screen and (min-width: 600px) and (max-width: 1300px) {
+	#fondo {
+		background-image: url("../img/Copia de dawn.png");
+}
+@media screen and (min-width: 1px) and (min-width: 559px) {
+	#fondo {
+		background-image: url("../img/Copia de maxresdefault.jpg");
+}
